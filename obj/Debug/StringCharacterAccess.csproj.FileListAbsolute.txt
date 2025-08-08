@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\StringCharacterAccess\bin\Debug\StringCharacterAccess.exe.config
+C:\Users\HP\source\repos\StringCharacterAccess\bin\Debug\StringCharacterAccess.exe
+C:\Users\HP\source\repos\StringCharacterAccess\bin\Debug\StringCharacterAccess.pdb
+C:\Users\HP\source\repos\StringCharacterAccess\obj\Debug\StringCharacterAccess.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StringCharacterAccess\obj\Debug\StringCharacterAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StringCharacterAccess\obj\Debug\StringCharacterAccess.exe
+C:\Users\HP\source\repos\StringCharacterAccess\obj\Debug\StringCharacterAccess.pdb
